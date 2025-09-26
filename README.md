@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I’m **Anchal Maurya**, a passionate **developer** who loves building interactive and meaningful applications. I enjoy working with **Java**, **React**, and **modern web technologies**, and I’m always curious about exploring new tools that make projects more efficient and engaging. Over time, I’ve worked on different kinds of projects like habit trackers, budget apps, dashboards, and weather apps, each one teaching me something new and **improving my problem-solving skills**. I believe in learning by building, and my repositories reflect my journey of growth as a developer. Currently, I’m focusing on **full-stack development** and sharpening my skills to create scalable and user-friendly solutions.
+
 <!--
 **AnchalMaurya/AnchalMaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
