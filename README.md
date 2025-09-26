@@ -8,12 +8,7 @@ I am a passionate **developer** who loves building interactive and meaningful ap
 
 ![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=AnchalMaurya)
 
-- 🔭 I’m currently working on **food delivery app**
-- 🌱 I’m currently learning **Spring Boot**
-- 👯 I’m looking to collaborate on ** Full Stack Java Developer**
-- 🤔 I’m looking for help with **AWS**
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
+![stats3](https://github-readme-stats.vercel.app/api/?username=AnchalMaurya)
 
 
 ## 🛠️ Tech Stack  
@@ -22,7 +17,14 @@ I am a passionate **developer** who loves building interactive and meaningful ap
 - **Tools:** Git, GitHub, VS Code, npm  
 - **Interests:** UI/UX design, Data Visualization, Dashboards  
 
+## More About Me
 
+- 🔭 I’m currently working on **food delivery app**
+- 🌱 I’m currently learning **Spring Boot**
+- 👯 I’m looking to collaborate on ** Full Stack Java Developer**
+- 🤔 I’m looking for help with **AWS**
+- 📫 How to reach me: ...
+- 😄 Pronouns: she/her
 
 
 
