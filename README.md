@@ -23,9 +23,13 @@ I am a passionate **developer** who loves building interactive and meaningful ap
 - 🌱 I’m currently learning **Spring Boot**
 - 👯 I’m looking to collaborate on ** Full Stack Java Developer**
 - 🤔 I’m looking for help with **AWS**
-- 📫 How to reach me: ...
+- 📫 How to reach me: [https://www.linkedin.com/in/maurya-aanchal/]
 - 😄 Pronouns: she/her
 
 
+## 🤝 Let’s Connect  
+🌐 Portfolio: *Coming soon*  
+💼 LinkedIn: [https://www.linkedin.com/in/maurya-aanchal/]  
+📧 Email: [anchalmaurya2408@gmail.com]  
 
 
