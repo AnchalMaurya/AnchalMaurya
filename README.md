@@ -21,7 +21,7 @@ I am a passionate **developer** who loves building interactive and meaningful ap
 
 - 🔭 I’m currently working on **food delivery app**
 - 🌱 I’m currently learning **Spring Boot**
-- 👯 I’m looking to collaborate on ** Full Stack Java Developer**
+- 👯 I’m looking to collaborate on **Full Stack Java Developer**
 - 🤔 I’m looking for help with **AWS**
 - 📫 How to reach me: [https://www.linkedin.com/in/maurya-aanchal/]
 - 😄 Pronouns: she/her
