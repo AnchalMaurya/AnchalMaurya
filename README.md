@@ -5,11 +5,11 @@ I am a passionate **developer** who loves building interactive and meaningful ap
 ## GitHub Stats
 
 
-![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=AnchalMaurya)
+![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=AnchalMaurya)
 
-![stats3](https://github-readme-stats.vercel.app/api/?username=AnchalMaurya)
+![stats2](https://github-readme-stats.vercel.app/api/?username=AnchalMaurya)
 
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=AnchalMaurya)
+![stats3](https://github-readme-streak-stats.herokuapp.com/?user=AnchalMaurya)
 
 
 ## 🛠️ Tech Stack  
